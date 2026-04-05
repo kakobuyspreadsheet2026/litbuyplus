@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="8" fill="#0a0a0a"/>
+  <!-- Single chunky flame: reads as orange blob on black at tiny sizes -->
+  <path fill="#ff7a18" d="M16 3.5c-1.2 4-5.5 7.5-5.5 14.2 0 5.8 4.2 9.8 5.5 10.8 1.3-1 5.5-5 5.5-10.8 0-6.7-4.3-10.2-5.5-14.2z"/>
+  <path fill="#ffd44a" d="M16 13c-2.2 2-3.5 4.8-3.5 7.8 0 3.5 2.2 6 3.5 7 1.3-1 3.5-3.5 3.5-7 0-3-1.3-5.8-3.5-7.8z"/>
+</svg>
