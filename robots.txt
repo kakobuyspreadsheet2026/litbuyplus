@@ -1,0 +1,5 @@
+# https://litbuyplus.com/
+User-agent: *
+Allow: /
+
+Sitemap: https://litbuyplus.com/sitemap.xml
